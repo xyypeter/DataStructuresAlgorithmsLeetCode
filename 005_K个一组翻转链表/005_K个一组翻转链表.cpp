@@ -60,33 +60,3 @@ int main(){
 }
 
 
-//class Solution {
-//public:
-//	ListNode* reverseKGroup(ListNode* head, int k) {
-//		//1.检查链表的长度是否足够反转一个k个节点的组
-//		ListNode* curr = head;
-//		int count = 0;
-//		while (curr) {
-//			count++;
-//			curr = curr->next;
-//		}
-//		//2.如果链表长度小于k,直接返回头节点
-//		if (count < k) return head;
-//		//3.翻转k个节点
-//		ListNode* prev = nullptr;
-//		ListNode* next = nullptr;
-//		curr = head;
-//		//4.翻转k个节点
-//		for (int i = 0; i < k; i++) {
-//			next = curr->next;
-//			curr->next = prev;
-//			prev = curr;
-//			curr = next;
-//		}
-//		//5.递归翻转后续部分
-//		if (next) {
-//			head->next = reverseKGroup(next, k);
-//		}
-//		return prev;
-//	}
-//};
