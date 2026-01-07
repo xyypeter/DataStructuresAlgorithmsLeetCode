@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009_最长回文子串", "0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "010_合并两个有序链表", "010_合并两个有序链表\010_合并两个有序链表.vcxproj", "{36D978E5-FBAE-4102-9307-4A7A468AFD6E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "011_二叉树的层次遍历", "011_二叉树的层次遍历\011_二叉树的层次遍历.vcxproj", "{F0A2A8D5-4F31-4D39-B6EA-6986F06493A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{36D978E5-FBAE-4102-9307-4A7A468AFD6E}.Release|x64.Build.0 = Release|x64
 		{36D978E5-FBAE-4102-9307-4A7A468AFD6E}.Release|x86.ActiveCfg = Release|Win32
 		{36D978E5-FBAE-4102-9307-4A7A468AFD6E}.Release|x86.Build.0 = Release|Win32
+		{F0A2A8D5-4F31-4D39-B6EA-6986F06493A5}.Debug|x64.ActiveCfg = Debug|x64
+		{F0A2A8D5-4F31-4D39-B6EA-6986F06493A5}.Debug|x64.Build.0 = Debug|x64
+		{F0A2A8D5-4F31-4D39-B6EA-6986F06493A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0A2A8D5-4F31-4D39-B6EA-6986F06493A5}.Debug|x86.Build.0 = Debug|Win32
+		{F0A2A8D5-4F31-4D39-B6EA-6986F06493A5}.Release|x64.ActiveCfg = Release|x64
+		{F0A2A8D5-4F31-4D39-B6EA-6986F06493A5}.Release|x64.Build.0 = Release|x64
+		{F0A2A8D5-4F31-4D39-B6EA-6986F06493A5}.Release|x86.ActiveCfg = Release|Win32
+		{F0A2A8D5-4F31-4D39-B6EA-6986F06493A5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
