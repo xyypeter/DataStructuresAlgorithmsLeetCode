@@ -17,6 +17,7 @@ public:
             lastpos[c] = right;
             maxLen = max(maxLen, right - left + 1);
         }
+        return left;
     }
 };
 
