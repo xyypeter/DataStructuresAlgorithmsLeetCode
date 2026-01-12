@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "012_岛屿数量问题", "0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "013_搜索旋转排序数组", "013_搜索旋转排序数组\013_搜索旋转排序数组.vcxproj", "{87200CEE-DA57-4E90-849D-A4FFA0E49CFC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "014_两数之和", "014_两数之和\014_两数之和.vcxproj", "{58D0B609-AAEC-470E-AB05-98E84593DC1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{87200CEE-DA57-4E90-849D-A4FFA0E49CFC}.Release|x64.Build.0 = Release|x64
 		{87200CEE-DA57-4E90-849D-A4FFA0E49CFC}.Release|x86.ActiveCfg = Release|Win32
 		{87200CEE-DA57-4E90-849D-A4FFA0E49CFC}.Release|x86.Build.0 = Release|Win32
+		{58D0B609-AAEC-470E-AB05-98E84593DC1F}.Debug|x64.ActiveCfg = Debug|x64
+		{58D0B609-AAEC-470E-AB05-98E84593DC1F}.Debug|x64.Build.0 = Debug|x64
+		{58D0B609-AAEC-470E-AB05-98E84593DC1F}.Debug|x86.ActiveCfg = Debug|Win32
+		{58D0B609-AAEC-470E-AB05-98E84593DC1F}.Debug|x86.Build.0 = Debug|Win32
+		{58D0B609-AAEC-470E-AB05-98E84593DC1F}.Release|x64.ActiveCfg = Release|x64
+		{58D0B609-AAEC-470E-AB05-98E84593DC1F}.Release|x64.Build.0 = Release|x64
+		{58D0B609-AAEC-470E-AB05-98E84593DC1F}.Release|x86.ActiveCfg = Release|Win32
+		{58D0B609-AAEC-470E-AB05-98E84593DC1F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
