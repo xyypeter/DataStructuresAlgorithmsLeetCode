@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "013_搜索旋转排序数�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "014_两数之和", "014_两数之和\014_两数之和.vcxproj", "{58D0B609-AAEC-470E-AB05-98E84593DC1F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "015_全排列问题", "015_全排列问题\015_全排列问题.vcxproj", "{904A9D1D-F042-4350-86BF-3F2753127FCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{58D0B609-AAEC-470E-AB05-98E84593DC1F}.Release|x64.Build.0 = Release|x64
 		{58D0B609-AAEC-470E-AB05-98E84593DC1F}.Release|x86.ActiveCfg = Release|Win32
 		{58D0B609-AAEC-470E-AB05-98E84593DC1F}.Release|x86.Build.0 = Release|Win32
+		{904A9D1D-F042-4350-86BF-3F2753127FCC}.Debug|x64.ActiveCfg = Debug|x64
+		{904A9D1D-F042-4350-86BF-3F2753127FCC}.Debug|x64.Build.0 = Debug|x64
+		{904A9D1D-F042-4350-86BF-3F2753127FCC}.Debug|x86.ActiveCfg = Debug|Win32
+		{904A9D1D-F042-4350-86BF-3F2753127FCC}.Debug|x86.Build.0 = Debug|Win32
+		{904A9D1D-F042-4350-86BF-3F2753127FCC}.Release|x64.ActiveCfg = Release|x64
+		{904A9D1D-F042-4350-86BF-3F2753127FCC}.Release|x64.Build.0 = Release|x64
+		{904A9D1D-F042-4350-86BF-3F2753127FCC}.Release|x86.ActiveCfg = Release|Win32
+		{904A9D1D-F042-4350-86BF-3F2753127FCC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
