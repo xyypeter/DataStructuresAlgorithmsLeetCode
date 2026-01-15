@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "017_有效的括号", "017_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "018_买股票的最佳时间", "018_买股票的最佳时间\018_买股票的最佳时间.vcxproj", "{E7862C61-5714-4FE5-949B-68C7908AB10A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "019_反转链表2", "019_反转链表2\019_反转链表2.vcxproj", "{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{E7862C61-5714-4FE5-949B-68C7908AB10A}.Release|x64.Build.0 = Release|x64
 		{E7862C61-5714-4FE5-949B-68C7908AB10A}.Release|x86.ActiveCfg = Release|Win32
 		{E7862C61-5714-4FE5-949B-68C7908AB10A}.Release|x86.Build.0 = Release|Win32
+		{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}.Debug|x64.ActiveCfg = Debug|x64
+		{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}.Debug|x64.Build.0 = Debug|x64
+		{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}.Debug|x86.ActiveCfg = Debug|Win32
+		{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}.Debug|x86.Build.0 = Debug|Win32
+		{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}.Release|x64.ActiveCfg = Release|x64
+		{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}.Release|x64.Build.0 = Release|x64
+		{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}.Release|x86.ActiveCfg = Release|Win32
+		{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
