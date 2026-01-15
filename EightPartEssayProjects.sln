@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "018_买股票的最佳时�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "019_反转链表2", "019_反转链表2\019_反转链表2.vcxproj", "{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020_二叉树的最近公共祖先", "020_二叉树的最近公共祖先\020_二叉树的最近公共祖先.vcxproj", "{BAEC3306-8319-456A-A158-B067EE9B3DE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}.Release|x64.Build.0 = Release|x64
 		{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}.Release|x86.ActiveCfg = Release|Win32
 		{311D5D3A-49B6-4A83-9FA7-7E8DC721B03D}.Release|x86.Build.0 = Release|Win32
+		{BAEC3306-8319-456A-A158-B067EE9B3DE8}.Debug|x64.ActiveCfg = Debug|x64
+		{BAEC3306-8319-456A-A158-B067EE9B3DE8}.Debug|x64.Build.0 = Debug|x64
+		{BAEC3306-8319-456A-A158-B067EE9B3DE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAEC3306-8319-456A-A158-B067EE9B3DE8}.Debug|x86.Build.0 = Debug|Win32
+		{BAEC3306-8319-456A-A158-B067EE9B3DE8}.Release|x64.ActiveCfg = Release|x64
+		{BAEC3306-8319-456A-A158-B067EE9B3DE8}.Release|x64.Build.0 = Release|x64
+		{BAEC3306-8319-456A-A158-B067EE9B3DE8}.Release|x86.ActiveCfg = Release|Win32
+		{BAEC3306-8319-456A-A158-B067EE9B3DE8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
