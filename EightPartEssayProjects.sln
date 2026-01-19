@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "022_环形链表", "022_环
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "023_最长上升子序列", "023_最长上升子序列\023_最长上升子序列.vcxproj", "{56062752-3C6E-44C5-A94E-C63C07B65629}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "024_螺旋矩阵", "024_螺旋矩阵\024_螺旋矩阵.vcxproj", "{7802F14B-FB84-43FB-A190-CB2C3B599F40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{56062752-3C6E-44C5-A94E-C63C07B65629}.Release|x64.Build.0 = Release|x64
 		{56062752-3C6E-44C5-A94E-C63C07B65629}.Release|x86.ActiveCfg = Release|Win32
 		{56062752-3C6E-44C5-A94E-C63C07B65629}.Release|x86.Build.0 = Release|Win32
+		{7802F14B-FB84-43FB-A190-CB2C3B599F40}.Debug|x64.ActiveCfg = Debug|x64
+		{7802F14B-FB84-43FB-A190-CB2C3B599F40}.Debug|x64.Build.0 = Debug|x64
+		{7802F14B-FB84-43FB-A190-CB2C3B599F40}.Debug|x86.ActiveCfg = Debug|Win32
+		{7802F14B-FB84-43FB-A190-CB2C3B599F40}.Debug|x86.Build.0 = Debug|Win32
+		{7802F14B-FB84-43FB-A190-CB2C3B599F40}.Release|x64.ActiveCfg = Release|x64
+		{7802F14B-FB84-43FB-A190-CB2C3B599F40}.Release|x64.Build.0 = Release|x64
+		{7802F14B-FB84-43FB-A190-CB2C3B599F40}.Release|x86.ActiveCfg = Release|Win32
+		{7802F14B-FB84-43FB-A190-CB2C3B599F40}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
