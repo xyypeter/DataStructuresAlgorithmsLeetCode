@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "021_二叉树锯齿形层�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "022_环形链表", "022_环形链表\022_环形链表.vcxproj", "{90DF3C83-05A0-48A3-9D9B-3CF50F717258}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "023_最长上升子序列", "023_最长上升子序列\023_最长上升子序列.vcxproj", "{56062752-3C6E-44C5-A94E-C63C07B65629}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{90DF3C83-05A0-48A3-9D9B-3CF50F717258}.Release|x64.Build.0 = Release|x64
 		{90DF3C83-05A0-48A3-9D9B-3CF50F717258}.Release|x86.ActiveCfg = Release|Win32
 		{90DF3C83-05A0-48A3-9D9B-3CF50F717258}.Release|x86.Build.0 = Release|Win32
+		{56062752-3C6E-44C5-A94E-C63C07B65629}.Debug|x64.ActiveCfg = Debug|x64
+		{56062752-3C6E-44C5-A94E-C63C07B65629}.Debug|x64.Build.0 = Debug|x64
+		{56062752-3C6E-44C5-A94E-C63C07B65629}.Debug|x86.ActiveCfg = Debug|Win32
+		{56062752-3C6E-44C5-A94E-C63C07B65629}.Debug|x86.Build.0 = Debug|Win32
+		{56062752-3C6E-44C5-A94E-C63C07B65629}.Release|x64.ActiveCfg = Release|x64
+		{56062752-3C6E-44C5-A94E-C63C07B65629}.Release|x64.Build.0 = Release|x64
+		{56062752-3C6E-44C5-A94E-C63C07B65629}.Release|x86.ActiveCfg = Release|Win32
+		{56062752-3C6E-44C5-A94E-C63C07B65629}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
