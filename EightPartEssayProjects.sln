@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020_二叉树的最近公�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "021_二叉树锯齿形层序遍历", "021_二叉树锯齿形层序遍历\021_二叉树锯齿形层序遍历.vcxproj", "{A23D34B4-0BF3-46C3-BA56-9FBCFA4BFCE6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "022_环形链表", "022_环形链表\022_环形链表.vcxproj", "{90DF3C83-05A0-48A3-9D9B-3CF50F717258}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{A23D34B4-0BF3-46C3-BA56-9FBCFA4BFCE6}.Release|x64.Build.0 = Release|x64
 		{A23D34B4-0BF3-46C3-BA56-9FBCFA4BFCE6}.Release|x86.ActiveCfg = Release|Win32
 		{A23D34B4-0BF3-46C3-BA56-9FBCFA4BFCE6}.Release|x86.Build.0 = Release|Win32
+		{90DF3C83-05A0-48A3-9D9B-3CF50F717258}.Debug|x64.ActiveCfg = Debug|x64
+		{90DF3C83-05A0-48A3-9D9B-3CF50F717258}.Debug|x64.Build.0 = Debug|x64
+		{90DF3C83-05A0-48A3-9D9B-3CF50F717258}.Debug|x86.ActiveCfg = Debug|Win32
+		{90DF3C83-05A0-48A3-9D9B-3CF50F717258}.Debug|x86.Build.0 = Debug|Win32
+		{90DF3C83-05A0-48A3-9D9B-3CF50F717258}.Release|x64.ActiveCfg = Release|x64
+		{90DF3C83-05A0-48A3-9D9B-3CF50F717258}.Release|x64.Build.0 = Release|x64
+		{90DF3C83-05A0-48A3-9D9B-3CF50F717258}.Release|x86.ActiveCfg = Release|Win32
+		{90DF3C83-05A0-48A3-9D9B-3CF50F717258}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
