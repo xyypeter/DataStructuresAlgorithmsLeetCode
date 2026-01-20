@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "024_螺旋矩阵", "024_螺
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "025_重排链表", "025_重排链表\025_重排链表.vcxproj", "{19F144E8-4C38-42B6-9AC0-9AC2313E1D98}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "026_合并K个升序链表", "026_合并K个升序链表\026_合并K个升序链表.vcxproj", "{3301FC80-E3B5-463E-BDA8-381AA78FB893}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{19F144E8-4C38-42B6-9AC0-9AC2313E1D98}.Release|x64.Build.0 = Release|x64
 		{19F144E8-4C38-42B6-9AC0-9AC2313E1D98}.Release|x86.ActiveCfg = Release|Win32
 		{19F144E8-4C38-42B6-9AC0-9AC2313E1D98}.Release|x86.Build.0 = Release|Win32
+		{3301FC80-E3B5-463E-BDA8-381AA78FB893}.Debug|x64.ActiveCfg = Debug|x64
+		{3301FC80-E3B5-463E-BDA8-381AA78FB893}.Debug|x64.Build.0 = Debug|x64
+		{3301FC80-E3B5-463E-BDA8-381AA78FB893}.Debug|x86.ActiveCfg = Debug|Win32
+		{3301FC80-E3B5-463E-BDA8-381AA78FB893}.Debug|x86.Build.0 = Debug|Win32
+		{3301FC80-E3B5-463E-BDA8-381AA78FB893}.Release|x64.ActiveCfg = Release|x64
+		{3301FC80-E3B5-463E-BDA8-381AA78FB893}.Release|x64.Build.0 = Release|x64
+		{3301FC80-E3B5-463E-BDA8-381AA78FB893}.Release|x86.ActiveCfg = Release|Win32
+		{3301FC80-E3B5-463E-BDA8-381AA78FB893}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
