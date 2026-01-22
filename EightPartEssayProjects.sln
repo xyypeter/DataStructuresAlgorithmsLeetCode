@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "027_字符串相加", "027_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "028_合并区间", "028_合并区间\028_合并区间.vcxproj", "{C4396550-3730-45AE-91E5-500338B5651B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "029_相交链表", "029_相交链表\029_相交链表.vcxproj", "{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{C4396550-3730-45AE-91E5-500338B5651B}.Release|x64.Build.0 = Release|x64
 		{C4396550-3730-45AE-91E5-500338B5651B}.Release|x86.ActiveCfg = Release|Win32
 		{C4396550-3730-45AE-91E5-500338B5651B}.Release|x86.Build.0 = Release|Win32
+		{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}.Debug|x64.ActiveCfg = Debug|x64
+		{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}.Debug|x64.Build.0 = Debug|x64
+		{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}.Debug|x86.Build.0 = Debug|Win32
+		{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}.Release|x64.ActiveCfg = Release|x64
+		{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}.Release|x64.Build.0 = Release|x64
+		{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}.Release|x86.ActiveCfg = Release|Win32
+		{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
