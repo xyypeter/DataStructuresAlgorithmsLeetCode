@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "028_合并区间", "028_合
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "029_相交链表", "029_相交链表\029_相交链表.vcxproj", "{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "030_编辑距离", "030_编辑距离\030_编辑距离.vcxproj", "{5B559786-D101-487A-BB4C-30DB72484FC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}.Release|x64.Build.0 = Release|x64
 		{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}.Release|x86.ActiveCfg = Release|Win32
 		{EE5CB8F5-BAC8-40EA-B4A2-5B3907D87D69}.Release|x86.Build.0 = Release|Win32
+		{5B559786-D101-487A-BB4C-30DB72484FC0}.Debug|x64.ActiveCfg = Debug|x64
+		{5B559786-D101-487A-BB4C-30DB72484FC0}.Debug|x64.Build.0 = Debug|x64
+		{5B559786-D101-487A-BB4C-30DB72484FC0}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B559786-D101-487A-BB4C-30DB72484FC0}.Debug|x86.Build.0 = Debug|Win32
+		{5B559786-D101-487A-BB4C-30DB72484FC0}.Release|x64.ActiveCfg = Release|x64
+		{5B559786-D101-487A-BB4C-30DB72484FC0}.Release|x64.Build.0 = Release|x64
+		{5B559786-D101-487A-BB4C-30DB72484FC0}.Release|x86.ActiveCfg = Release|Win32
+		{5B559786-D101-487A-BB4C-30DB72484FC0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
