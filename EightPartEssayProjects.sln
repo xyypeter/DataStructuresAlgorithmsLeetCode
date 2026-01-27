@@ -69,6 +69,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "031_接雨水问题", "031_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "032_二叉树中的最大路径和", "032_二叉树中的最大路径和\032_二叉树中的最大路径和.vcxproj", "{D58024F1-D302-4DBF-B38F-9667A7FE7188}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "033_最长公共子序列", "033_最长公共子序列\033_最长公共子序列.vcxproj", "{C4103391-1B75-4495-A2E2-879FA96A19F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -341,6 +343,14 @@ Global
 		{D58024F1-D302-4DBF-B38F-9667A7FE7188}.Release|x64.Build.0 = Release|x64
 		{D58024F1-D302-4DBF-B38F-9667A7FE7188}.Release|x86.ActiveCfg = Release|Win32
 		{D58024F1-D302-4DBF-B38F-9667A7FE7188}.Release|x86.Build.0 = Release|Win32
+		{C4103391-1B75-4495-A2E2-879FA96A19F9}.Debug|x64.ActiveCfg = Debug|x64
+		{C4103391-1B75-4495-A2E2-879FA96A19F9}.Debug|x64.Build.0 = Debug|x64
+		{C4103391-1B75-4495-A2E2-879FA96A19F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{C4103391-1B75-4495-A2E2-879FA96A19F9}.Debug|x86.Build.0 = Debug|Win32
+		{C4103391-1B75-4495-A2E2-879FA96A19F9}.Release|x64.ActiveCfg = Release|x64
+		{C4103391-1B75-4495-A2E2-879FA96A19F9}.Release|x64.Build.0 = Release|x64
+		{C4103391-1B75-4495-A2E2-879FA96A19F9}.Release|x86.ActiveCfg = Release|Win32
+		{C4103391-1B75-4495-A2E2-879FA96A19F9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
