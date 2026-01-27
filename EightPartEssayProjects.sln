@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "032_二叉树中的最大�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "033_最长公共子序列", "033_最长公共子序列\033_最长公共子序列.vcxproj", "{C4103391-1B75-4495-A2E2-879FA96A19F9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "034_复原IP地址", "034_复原IP地址\034_复原IP地址.vcxproj", "{4C9966D2-6CA0-4B0F-BB2C-776545295A56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -351,6 +353,14 @@ Global
 		{C4103391-1B75-4495-A2E2-879FA96A19F9}.Release|x64.Build.0 = Release|x64
 		{C4103391-1B75-4495-A2E2-879FA96A19F9}.Release|x86.ActiveCfg = Release|Win32
 		{C4103391-1B75-4495-A2E2-879FA96A19F9}.Release|x86.Build.0 = Release|Win32
+		{4C9966D2-6CA0-4B0F-BB2C-776545295A56}.Debug|x64.ActiveCfg = Debug|x64
+		{4C9966D2-6CA0-4B0F-BB2C-776545295A56}.Debug|x64.Build.0 = Debug|x64
+		{4C9966D2-6CA0-4B0F-BB2C-776545295A56}.Debug|x86.ActiveCfg = Debug|Win32
+		{4C9966D2-6CA0-4B0F-BB2C-776545295A56}.Debug|x86.Build.0 = Debug|Win32
+		{4C9966D2-6CA0-4B0F-BB2C-776545295A56}.Release|x64.ActiveCfg = Release|x64
+		{4C9966D2-6CA0-4B0F-BB2C-776545295A56}.Release|x64.Build.0 = Release|x64
+		{4C9966D2-6CA0-4B0F-BB2C-776545295A56}.Release|x86.ActiveCfg = Release|Win32
+		{4C9966D2-6CA0-4B0F-BB2C-776545295A56}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
