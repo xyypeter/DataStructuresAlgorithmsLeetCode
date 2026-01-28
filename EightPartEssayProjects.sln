@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "035_删除链表中的重�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "036_删除链表的倒数第N个结点", "036_删除链表的倒数第N个结点\036_删除链表的倒数第N个结点.vcxproj", "{C087E4CC-656F-4CE8-8BB4-D4B1E8350C97}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "037_环形链表II", "037_环形链表II\037_环形链表II.vcxproj", "{149ED26B-E1DA-40A8-9AD6-15BE3CEF1ED6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +383,14 @@ Global
 		{C087E4CC-656F-4CE8-8BB4-D4B1E8350C97}.Release|x64.Build.0 = Release|x64
 		{C087E4CC-656F-4CE8-8BB4-D4B1E8350C97}.Release|x86.ActiveCfg = Release|Win32
 		{C087E4CC-656F-4CE8-8BB4-D4B1E8350C97}.Release|x86.Build.0 = Release|Win32
+		{149ED26B-E1DA-40A8-9AD6-15BE3CEF1ED6}.Debug|x64.ActiveCfg = Debug|x64
+		{149ED26B-E1DA-40A8-9AD6-15BE3CEF1ED6}.Debug|x64.Build.0 = Debug|x64
+		{149ED26B-E1DA-40A8-9AD6-15BE3CEF1ED6}.Debug|x86.ActiveCfg = Debug|Win32
+		{149ED26B-E1DA-40A8-9AD6-15BE3CEF1ED6}.Debug|x86.Build.0 = Debug|Win32
+		{149ED26B-E1DA-40A8-9AD6-15BE3CEF1ED6}.Release|x64.ActiveCfg = Release|x64
+		{149ED26B-E1DA-40A8-9AD6-15BE3CEF1ED6}.Release|x64.Build.0 = Release|x64
+		{149ED26B-E1DA-40A8-9AD6-15BE3CEF1ED6}.Release|x86.ActiveCfg = Release|Win32
+		{149ED26B-E1DA-40A8-9AD6-15BE3CEF1ED6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
