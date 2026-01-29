@@ -83,6 +83,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "038_寻找两个正序数�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "039_二叉树右视图", "039_二叉树右视图\039_二叉树右视图.vcxproj", "{3B26E7C9-DE81-4FAD-9B2B-E050E08E8BCA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "040_比较版本号", "040_比较版本号\040_比较版本号.vcxproj", "{5131ACC0-4D80-47FB-BEA8-50861071A9D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -411,6 +413,14 @@ Global
 		{3B26E7C9-DE81-4FAD-9B2B-E050E08E8BCA}.Release|x64.Build.0 = Release|x64
 		{3B26E7C9-DE81-4FAD-9B2B-E050E08E8BCA}.Release|x86.ActiveCfg = Release|Win32
 		{3B26E7C9-DE81-4FAD-9B2B-E050E08E8BCA}.Release|x86.Build.0 = Release|Win32
+		{5131ACC0-4D80-47FB-BEA8-50861071A9D5}.Debug|x64.ActiveCfg = Debug|x64
+		{5131ACC0-4D80-47FB-BEA8-50861071A9D5}.Debug|x64.Build.0 = Debug|x64
+		{5131ACC0-4D80-47FB-BEA8-50861071A9D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{5131ACC0-4D80-47FB-BEA8-50861071A9D5}.Debug|x86.Build.0 = Debug|Win32
+		{5131ACC0-4D80-47FB-BEA8-50861071A9D5}.Release|x64.ActiveCfg = Release|x64
+		{5131ACC0-4D80-47FB-BEA8-50861071A9D5}.Release|x64.Build.0 = Release|x64
+		{5131ACC0-4D80-47FB-BEA8-50861071A9D5}.Release|x86.ActiveCfg = Release|Win32
+		{5131ACC0-4D80-47FB-BEA8-50861071A9D5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
